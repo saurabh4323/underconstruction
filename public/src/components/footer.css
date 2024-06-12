@@ -1,0 +1,15 @@
+.footer{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  cursor: pointer;
+  margin-top: 50px;
+  
+  color: white;
+
+  .text{
+color: aliceblue;
+/* text-decoration: none; */
+
+  }
+}
